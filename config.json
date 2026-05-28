@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvender",
+        "uuid": 12659521,
+        "checksum": "pydeq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
